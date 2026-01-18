@@ -25,3 +25,8 @@ You can review materials anytime and practice at your own pace.
 ## How to Practice
 - Download Jupyter notebooks and run them locally using **Anaconda**
 - Some topics will include links to run notebooks directly in your browser
+
+---
+
+## Practice
+- [Concept Practice Exercises](practice/practice-exercises.md)
