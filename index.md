@@ -14,7 +14,7 @@ You can review materials anytime and practice at your own pace.
 
 ## Course Topics
 - What is Data Literacy?
-- Types of Data
+- [Types of Data](topics/types-of-data.md)
 - Data Distributions
 - Reading and Interpreting Data
 - Introduction to Python for Data Analysis
