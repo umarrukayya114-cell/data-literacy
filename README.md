@@ -1,2 +1,2 @@
-##Data-literacy Lab
+## Data Literacy - Labs
 - Lab 01 - Python Refresher 
